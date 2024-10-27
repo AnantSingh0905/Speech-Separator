@@ -1,0 +1,5 @@
+torchaudio==0.10.0
+librosa==0.8.0
+soundfile==0.10.3
+speechbrain==0.5.10
+numpy

@@ -1,0 +1,5 @@
+Open tkinter_app.exe
+after choose the Suitable mode
+select audio 
+wait for 3-4 minutes
+audio file is in the result folder
